@@ -1,0 +1,13 @@
+/*css for forside*/
+
+
+body {
+    background: lightgrey;
+}
+
+#oppskrifter {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    font-weight: bold;
+}
